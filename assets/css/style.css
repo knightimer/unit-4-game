@@ -1,0 +1,13 @@
+
+
+.crystal-image {
+    width: 300px;
+    height: 300px;
+  }
+
+
+   class= "crystal-image" id="one" <img src ="assets/images/clear.jpg">
+  /<img src="assets/images/orange.jpg" class= "crystal-image" id="two" >
+  //  		        <img src="assets/images/blue.jpg" class= "crystal-image" id= "three" >
+  //  		        <img src="assets/images/purple.jpg" class="crystal-image" id= "four" >
+  //       </div>
